@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EcoRutas</string>
+    <string name="gps_button">Botón de GPS</string>
+    <string name="logo_imagen">Logo de EcoRutas</string>
+</resources>

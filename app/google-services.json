@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "465954788716",
+    "project_id": "ecorutas-a38c8",
+    "storage_bucket": "ecorutas-a38c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465954788716:android:1dd2e63df874dfb68e4f49",
+        "android_client_info": {
+          "package_name": "com.example.ecorutas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRiA05uvEcCbdIakdn3GsJWPnhBfDFqsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465954788716:android:4e8cc475f6df6ca68e4f49",
+        "android_client_info": {
+          "package_name": "com.example.hola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRiA05uvEcCbdIakdn3GsJWPnhBfDFqsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
